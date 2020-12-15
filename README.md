@@ -2,5 +2,5 @@
 ## Indice
 ## [1.-Introducción](https://github.com/crisog20/dnsmasq/blob/main/1.-Introducci%C3%B3n.md)
 ## [2.-Instalación y configuración](https://github.com/crisog20/dnsmasq/blob/main/2.-Instalaci%C3%B3n%20y%20configuraci%C3%B3n.md)
-## [3.-Pruebas de funcionamiento]()
+## [3.-Pruebas de funcionamiento](https://github.com/crisog20/dnsmasq/blob/main/3.-Pruebas%20de%20funcionamiento.md)
 ## [Referencias](https://github.com/crisog20/dnsmasq/blob/main/Referencias.md)
